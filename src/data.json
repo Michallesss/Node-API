@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Mikael",
+        "age": 16,
+        "is_gay": true,
+        "comment": null
+    },
+    {
+        "id": 2,
+        "name": "Joe",
+        "age": 45,
+        "is_gay": false,
+        "comment": null
+    },
+    {
+        "id": 3,
+        "name": "Gor",
+        "age": 23,
+        "is_gay": true,
+        "comment": null
+    }
+]
