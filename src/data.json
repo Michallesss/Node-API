@@ -1,9 +1,9 @@
 [
     {
         "id": 1,
-        "name": "Mikael",
+        "name": "MikaelnieWieczorek",
         "age": 16,
-        "is_gay": true,
+        "is_gay": false,
         "comment": null
     },
     {
